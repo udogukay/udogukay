@@ -38,7 +38,7 @@ I'm passionate about streamlining software delivery, automating everything, and 
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/kome-udogu-b938b6a8)
+- [LinkedIn](https://linkedin.com/in/oghenekome-udogu-b938b6a8)
 <!-- - [Dev.to](https://dev.to/YOURUSERNAME) -->
 <!-- - [Blog](https://yourblog.dev) _(optional)_ -->
 
